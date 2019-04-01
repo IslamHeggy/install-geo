@@ -8,7 +8,7 @@ This script installs the following components
 * Install common packages for the whole installation.
 * Allow firewall specific ports.
 * Install OpenJdk.
-* Install Tomcat.
+* Install Tomcat & Create a systemd service.
 * Download and deploy Geoserver.
 * Install Postgresql.
 * Install postgis.
